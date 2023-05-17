@@ -15,3 +15,7 @@ https://docs.google.com/presentation/d/1-x6QdqvkLDc4SWyz38Y_R6uUWZNFsSZswKQYNewm
 
 ## DB
 https://cloud-animal-310.notion.site/32e341dcce8d4bf9b07b209950c7c382
+
+
+## Power Toys
+https://github.com/microsoft/PowerToys/releases
