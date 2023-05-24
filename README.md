@@ -8,6 +8,7 @@ https://github.com/GomaGoma676
 - Live Server
 - ES7 React Redux
 - Live sass compiler
+- postCSS
 
 ## OPEN API
 poco tech
