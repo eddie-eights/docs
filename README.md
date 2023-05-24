@@ -16,6 +16,16 @@ https://docs.google.com/presentation/d/1-x6QdqvkLDc4SWyz38Y_R6uUWZNFsSZswKQYNewm
 ## VSCode ショートカット
 https://qiita.com/oruponu/items/ae9c720d4522c1606daf
 
+## Tailwind 
+https://flowbite.com/blocks/
+
+https://www.material-tailwind.com/
+
+https://ant.design/
+
+https://heroicons.com/
+
+https://fontawesome.com/start
 
 ## SQL / GROUP BY
 https://cloud-animal-310.notion.site/SQL-GROUP-BY-da17bbf5f39b4d4d9db7fa07dee8abe2
