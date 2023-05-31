@@ -1,7 +1,10 @@
 # docs
 
-朝礼素材
-https://docs.google.com/presentation/d/1feLzIO0k4wy-aZV7vG5FKS4NZWubAyDNGIUwHhk2iTo/edit?usp=sharing
+nvim
+https://drive.google.com/file/d/1gHqTT0ldIQDQS4pqSITzTOTh6hPCP7fK/view?usp=sharing
+
+VSCODE
+https://drive.google.com/file/d/1FIPf302wv_NpH5xSQutsl7nSPuNrctcE/view?usp=sharing
 
 ## React
 https://github.com/GomaGoma676
