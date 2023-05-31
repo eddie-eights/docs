@@ -1,9 +1,11 @@
 # docs
 
-nvim
+### nvim
+https://docs.google.com/presentation/d/1eXRejC8TpuhLAUSmeI7IoR3Brqz6s86R4n1TP9vuXYw/edit?usp=sharing
+
 https://drive.google.com/file/d/1gHqTT0ldIQDQS4pqSITzTOTh6hPCP7fK/view?usp=sharing
 
-VSCODE
+### VSCODE
 https://drive.google.com/file/d/1FIPf302wv_NpH5xSQutsl7nSPuNrctcE/view?usp=sharing
 
 ## React
