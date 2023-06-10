@@ -1,0 +1,103 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.printWidth": 120,
+  "editor.indentSize": "tabSize",
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.detectIndentation": false,
+  "editor.formatOnSave": true,
+  "files.autoSave": "afterDelay",
+
+  "python.defaultInterpreterPath": "/opt/homebrew/bin/python3.11",
+  "python.languageServer": "Jedi",
+  "python.formatting.provider": "black",
+  "[python]": {
+    "editor.tabSize": 4,
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnSave": true
+  },
+
+  "[php]": {
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client",
+    "editor.formatOnSave": true
+  },
+
+  "editor.fontSize": 16,
+  "editor.fontFamily": "RictyDiminished-Regular",
+  "editor.renderControlCharacters": true,
+
+  "workbench.startupEditor": "none",
+  "editor.minimap.enabled": false,
+  "editor.guides.bracketPairs": true,
+
+  "security.workspace.trust.untrustedFiles": "open",
+  "terminal.integrated.fontFamily": "RictyDiminished-Regular",
+  "editor.accessibilitySupport": "off",
+  "explorer.confirmDragAndDrop": false,
+  "files.insertFinalNewline": true,
+
+
+  "githubPullRequests.createOnPublishBranch": "never",
+
+
+  "liveServer.settings.donotShowInfoMsg": true,
+  "explorer.confirmDelete": false,
+
+  "workbench.preferredDarkColorTheme": "Darcula Theme from IntelliJ",
+  "window.autoDetectHighContrast": false,
+  "workbench.iconTheme": "material-icon-theme",
+
+  "yaml.customTags": [
+    "!And",
+    "!And sequence",
+    "!If",
+    "!If sequence",
+    "!Not",
+    "!Not sequence",
+    "!Equals",
+    "!Equals sequence",
+    "!Or",
+    "!Or sequence",
+    "!FindInMap",
+    "!FindInMap sequence",
+    "!Base64",
+    "!Join",
+    "!Join sequence",
+    "!Cidr",
+    "!Ref",
+    "!Sub",
+    "!Sub sequence",
+    "!GetAtt",
+    "!GetAZs",
+    "!ImportValue",
+    "!ImportValue sequence",
+    "!Select",
+    "!Select sequence",
+    "!Split",
+    "!Split sequence"
+  ],
+  "debug.console.fontSize": 16,
+  "terminal.integrated.fontSize": 16,
+
+  "vs-kubernetes": {
+    "vscode-kubernetes.helm-path.mac": "/Users/eight/.vs-kubernetes/tools/helm/darwin-arm64/helm",
+    "vscode-kubernetes.minikube-path.mac": "/Users/eight/.vs-kubernetes/tools/minikube/darwin-arm64/minikube"
+  },
+  "emmet.showSuggestionsAsSnippets": true,
+  "files.autoSaveDelay": 3000,
+  "workbench.colorTheme": "Darcula Theme from IntelliJ",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+
+  "editor.renderWhitespace": "all",
+  "workbench.editor.enablePreview": false,
+  "vscode-neovim.useCtrlKeysForInsertMode": false,
+
+  "genieai.enableConversationHistory": true,
+  "genieai.promptPrefix.addComments": "読み手はジュニアエンジニアです。このコードに丁寧で分かりやすいコメントを追記して。",
+  "genieai.promptPrefix.completeCode": "あなたはシニアエンジニアです。このコードがきちんと動くように完成させて。",
+  "genieai.promptPrefix.explain": "相手はジュニアエンジニアです。このコードの流れとデータ構造を分かりやすく丁寧に説明して。",
+  "genieai.promptPrefix.optimize": "あなたはシニアエンジニアです。このコードを読みやすいように簡潔に最適化して。",
+  "genieai.promptPrefix.findProblems": "あなたはシニアエンジニアです。このコードの問題点を指摘し、改善されたコードを教えて。",
+
+}
