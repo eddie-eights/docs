@@ -1,0 +1,47 @@
+// 既定値を上書きするには、このファイル内にキー バインドを挿入しますauto[]
+[
+  {
+    "key": "ctrl+t",
+    "command": "workbench.action.terminal.focus",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "ctrl+a",
+    "command": "cursorHome",
+    "when": "textInputFocus"
+  },
+  {
+    "key": "cmd+left",
+    "command": "-cursorHome",
+    "when": "textInputFocus"
+  },
+  {
+    "key": "ctrl+d",
+    "command": "workbench.action.debug.run",
+    "when": "debuggersAvailable && !inDebugMode && !terminalFocus && !textInputFocus"
+  },
+  {
+    "key": "ctrl+d",
+    "command": "-workbench.action.debug.run",
+    "when": "debuggersAvailable && !inDebugMode && !terminalFocus"
+  },
+  {
+    "key": "ctrl+u",
+    "command": "deleteAllLeft",
+    "when": "textInputFocus && !editorReadonly"
+  },
+  {
+    "key": "ctrl+w",
+    "command": "deleteInsideWord",
+    "when": "textInputFocus"
+  },
+  {
+    "key": "ctrl+w",
+    "command": "workbench.action.switchWindow",
+    "when": "!textInputFocus"
+  },
+  {
+    "key": "ctrl+w",
+    "command": "-workbench.action.switchWindow"
+  }
+]
