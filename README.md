@@ -8,6 +8,9 @@ https://drive.google.com/file/d/1gHqTT0ldIQDQS4pqSITzTOTh6hPCP7fK/view?usp=shari
 https://drive.google.com/file/d/1FIPf302wv_NpH5xSQutsl7nSPuNrctcE/view?usp=sharing
 
 
+### LINUX
+https://docs.google.com/presentation/d/1Al03wJ_LvROJNQT3eeIzMpRqgcxx4yiSHt7Wcvg3W4w/edit?usp=sharing
+
 ### OPEN API
 poco tech
 https://docs.google.com/presentation/d/1-x6QdqvkLDc4SWyz38Y_R6uUWZNFsSZswKQYNewmYpI/edit#slide=id.gfa2fdee654_0_0
